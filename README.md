@@ -1,5 +1,5 @@
 # images
 A repository that contains image(s).
 ---
- \- [Cloud Background](https://github.com/catcosmicice/images/blob/master/cloud-bg.jpg) | [Designed by VecMes / Freepik](https://www.freepik.com)
+ \- Cloud Background [JPG](https://cdn.jsdelivr.net/gh/catcosmicice/images@master/cloud-bg.jpg) [WEBP](https://cdn.jsdelivr.net/gh/catcosmicice/images@master/cloud-bg.webp) | [Designed by VecMes / Freepik](https://www.freepik.com)
  
